@@ -1,7 +1,7 @@
 ineditor
 ========
 
-Simple inline editor
+Simple inline editor jQuery plugin.
 
 Usage:
 
